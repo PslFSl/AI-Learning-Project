@@ -19,7 +19,9 @@ University before the start of the academic term.
 - Mini Project: Titanic dataset analysis
 
 ### Week 3: Classical ML (From Scratch)
-- [Planned content]
+-Regression, perceptron, MLP, neural networks basics.
+-Apply two‑layer network to XOR, non‑linear problems.
+-Record accuracy, highlight perceptron vs neural network.
 
 ### Week 4: Reinforcement Learning Project
 - [Planned content]
